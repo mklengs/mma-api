@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Valish/mma-api"
+    "url": "https://github.com/mklengs/mma-api"
   },
   "keywords": [
     "MMA",
@@ -20,11 +20,11 @@
   "author": "= <=>",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/Valish/mma-api/issues"
+    "url": "https://github.com/mklengs/mma-api/issues"
   },
-  "homepage": "https://github.com/Valish/mma-api",
+  "homepage": "https://github.com/mklengs/mma-api",
   "dependencies": {
-    "google": "^1.4.0",
+    "google-it": "^1.4.0",
     "sherdog": "^0.1.10",
     "ufc": "^0.1.1"
   }
